@@ -1,6 +1,6 @@
 # Buku Tutorial Python Basic (Bab 1-9)
 
-Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, berbasis topik dari `pythonlearn.pdf` (Chapter 2-10).
+Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, dengan alur belajar Python basic yang sederhana dan bertahap.
 
 ## Daftar Bab
 
@@ -9,9 +9,9 @@ Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, berbasis to
 - Bab 3: Fungsi
 - Bab 4: Perulangan (Iteration)
 - Bab 5: String
-- Bab 6: File
-- Bab 7: List
-- Bab 8: Dictionary
+- Bab 6: List
+- Bab 7: Dictionary
+- Bab 8: Set
 - Bab 9: Tuple
 
 ## File Notebook
@@ -21,9 +21,9 @@ Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, berbasis to
 - `03_fungsi.ipynb`
 - `04_perulangan_iteration.ipynb`
 - `05_string.ipynb`
-- `06_file.ipynb`
-- `07_list.ipynb`
-- `08_dictionary.ipynb`
+- `06_list.ipynb`
+- `07_dictionary.ipynb`
+- `08_set.ipynb`
 - `09_tuple.ipynb`
 
 ## Cara Pakai
@@ -31,9 +31,4 @@ Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, berbasis to
 1. Buka Jupyter Notebook / JupyterLab.
 2. Masuk ke folder proyek ini.
 3. Pelajari notebook berurutan dari `01` sampai `09`.
-4. Jalankan setiap sel secara berurutan dari atas ke bawah.
-
-## Catatan
-
-- Beberapa contoh di Bab 6 membutuhkan file `contoh.txt` buatan sendiri.
-- Setiap code cell sudah dilengkapi penjelasan dan komentar singkat.
+4. Jalankan sel dari atas ke bawah.
