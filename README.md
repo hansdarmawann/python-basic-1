@@ -1,4 +1,5 @@
 # Python Basic Playbook: Dari Nol Sampai Paham Struktur Data
+oleh Hans Darmawan
 
 Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, praktis, dan ramah untuk latihan mandiri.
 
@@ -9,10 +10,10 @@ Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, pra
 - Menjadi pijakan sebelum lanjut ke topik Python tingkat menengah.
 
 ## Mulai Belajar
-[Mulai dari Notebook 00 - Pembukaan dan Setup](00_pembukaan.ipynb)
+[Mulai dari Pembukaan dan Setup](00_pembukaan.ipynb)
 
-## Daftar Bab (Hyperlink)
-- [Notebook 00 - Pembukaan dan Setup](00_pembukaan.ipynb)
+## Daftar Bab
+- [Pembukaan dan Setup](00_pembukaan.ipynb)
 - [Bab 1 - Variabel, Ekspresi, dan Statement](01_variabel_ekspresi_dan_statement.ipynb)
 - [Bab 2 - Percabangan (Conditional Execution)](02_percabangan_conditional_execution.ipynb)
 - [Bab 3 - Fungsi](03_fungsi.ipynb)
@@ -28,6 +29,6 @@ Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, pra
 
 ## Cara Pakai Singkat
 1. Buka folder proyek ini di VS Code.
-2. Buka [Notebook 00](00_pembukaan.ipynb) untuk mengikuti setup Python + Miniconda + kernel notebook.
+2. Buka [Pembukaan](00_pembukaan.ipynb) untuk mengikuti setup Python + Miniconda + kernel notebook.
 3. Lanjut belajar berurutan dari Bab 1 sampai Bab 11.
 4. Coba kerjakan latihan dulu, lalu cek [Notebook 99](99_kunci_jawaban.ipynb).
