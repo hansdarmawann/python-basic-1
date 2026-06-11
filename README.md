@@ -28,6 +28,6 @@ Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, pra
 
 ## Cara Pakai Singkat
 1. Buka folder proyek ini di VS Code.
-2. Jalankan [Notebook 00](00_pembukaan.ipynb) untuk setup Python + Miniconda + kernel notebook.
+2. Buka [Notebook 00](00_pembukaan.ipynb) untuk mengikuti setup Python + Miniconda + kernel notebook.
 3. Lanjut belajar berurutan dari Bab 1 sampai Bab 11.
 4. Coba kerjakan latihan dulu, lalu cek [Notebook 99](99_kunci_jawaban.ipynb).
