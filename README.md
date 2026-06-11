@@ -1,34 +1,33 @@
-# Buku Tutorial Python Basic (Bab 1-9)
+# Python Basic Playbook: Dari Nol Sampai Paham Struktur Data
 
-Materi ini dibuat untuk pemula (orang awam), dalam bahasa Indonesia, dengan alur belajar Python basic yang sederhana dan bertahap.
+Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, praktis, dan ramah untuk latihan mandiri.
 
-## Daftar Bab
+## Tujuan Buku
+- Membantu pemula memahami fondasi Python dari konsep paling dasar.
+- Menyediakan materi bertahap lewat notebook yang bisa langsung dijalankan.
+- Melatih cara berpikir pemrograman, bukan sekadar hafalan sintaks.
+- Menjadi pijakan sebelum lanjut ke topik Python tingkat menengah.
 
-- Bab 1: Variabel, Ekspresi, dan Statement
-- Bab 2: Percabangan (Conditional Execution)
-- Bab 3: Fungsi
-- Bab 4: Perulangan (Iteration)
-- Bab 5: String
-- Bab 6: List
-- Bab 7: Dictionary
-- Bab 8: Set
-- Bab 9: Tuple
+## Mulai Belajar
+[Mulai dari Notebook 00 - Pembukaan dan Setup](00_pembukaan.ipynb)
 
-## File Notebook
+## Daftar Bab (Hyperlink)
+- [Notebook 00 - Pembukaan dan Setup](00_pembukaan.ipynb)
+- [Bab 1 - Variabel, Ekspresi, dan Statement](01_variabel_ekspresi_dan_statement.ipynb)
+- [Bab 2 - Percabangan (Conditional Execution)](02_percabangan_conditional_execution.ipynb)
+- [Bab 3 - Fungsi](03_fungsi.ipynb)
+- [Bab 4 - Perulangan (Iteration)](04_perulangan_iteration.ipynb)
+- [Bab 5 - String](05_string.ipynb)
+- [Bab 6 - List](06_list.ipynb)
+- [Bab 7 - Dictionary](07_dictionary.ipynb)
+- [Bab 8 - Set](08_set.ipynb)
+- [Bab 9 - Tuple](09_tuple.ipynb)
+- [Bab 10 - List vs Dict vs Set vs Tuple](10_list_vs_dict_vs_set_vs_tuple.ipynb)
+- [Bab 11 - Penutup](11_penutup.ipynb)
+- [Notebook 99 - Kunci Jawaban Latihan](99_kunci_jawaban.ipynb)
 
-- `01_variabel_ekspresi_dan_statement.ipynb`
-- `02_percabangan_conditional_execution.ipynb`
-- `03_fungsi.ipynb`
-- `04_perulangan_iteration.ipynb`
-- `05_string.ipynb`
-- `06_list.ipynb`
-- `07_dictionary.ipynb`
-- `08_set.ipynb`
-- `09_tuple.ipynb`
-
-## Cara Pakai
-
-1. Buka Jupyter Notebook / JupyterLab.
-2. Masuk ke folder proyek ini.
-3. Pelajari notebook berurutan dari `01` sampai `09`.
-4. Jalankan sel dari atas ke bawah.
+## Cara Pakai Singkat
+1. Buka folder proyek ini di VS Code.
+2. Jalankan [Notebook 00](00_pembukaan.ipynb) untuk setup Python + Miniconda + kernel notebook.
+3. Lanjut belajar berurutan dari Bab 1 sampai Bab 11.
+4. Coba kerjakan latihan dulu, lalu cek [Notebook 99](99_kunci_jawaban.ipynb).
