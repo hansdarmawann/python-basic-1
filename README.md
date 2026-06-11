@@ -25,10 +25,10 @@ Buku ini dibuat untuk membantu pemula belajar Python dengan alur yang jelas, pra
 - [Bab 9 - Tuple](09_tuple.ipynb)
 - [Bab 10 - List vs Dict vs Set vs Tuple](10_list_vs_dict_vs_set_vs_tuple.ipynb)
 - [Bab 11 - Penutup](11_penutup.ipynb)
-- [Kunci Jawaban Latihan dan Pembahasan](99_kunci_jawaban.ipynb)
+- [Kunci Jawaban Latihan](99_kunci_jawaban.ipynb)
 
 ## Cara Pakai Singkat
 1. Buka folder proyek ini di VS Code.
 2. Buka [Pembukaan](00_pembukaan.ipynb) untuk mengikuti setup Python + Miniconda + kernel notebook.
 3. Lanjut belajar berurutan dari Bab 1 sampai Bab 11.
-4. Coba kerjakan latihan dulu, lalu cek [Kunci Jawaban Latihan dan Pembahasan](99_kunci_jawaban.ipynb).
+4. Coba kerjakan latihan dulu, lalu cek [Kunci Jawaban Latihan](99_kunci_jawaban.ipynb).
